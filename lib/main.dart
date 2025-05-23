@@ -11,7 +11,22 @@ List<MaterialColor> cores = [
   Colors.cyan,
   Colors.deepOrange,
   Colors.green,
+  Colors.blue,
+  Colors.red,
+  Colors.purple,
+  Colors.pink,
+  Colors.amber,
+  Colors.indigo,
+  Colors.teal,
+  Colors.lightBlue,
+  Colors.lime,
+  Colors.deepPurple,
+  Colors.yellow,
+  Colors.brown,
+  Colors.grey,
+  Colors.blueGrey,
 ];
+
 MaterialColor randomColor = Colors.orange;
 
 class MyApp extends StatelessWidget {
